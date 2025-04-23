@@ -1,10 +1,15 @@
-# just-the-docs-template
+# 使用 Jekyll 创建静态网站
 
-This is a *bare-minimum* template to create a [Jekyll] site that:
+[Jekyll] 官网
 
 - uses the [Just the Docs] theme;
 - can be built and published on [GitHub Pages];
 - can be built and previewed locally, and published on other platforms.
+
+算了，懒得改了，这个主题模板的readme还是挺好的。
+要使用得好一点的话，可以看看jekyll官网的docs，了解一下这里使用到的东西。
+添加新页面： 在本工程的/docs/下面添加md就好，格式是markdown的，比html更简单。 图片和pdf等资源放到/assets/下面。
+
 
 More specifically, the created site:
 
